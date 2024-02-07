@@ -14,3 +14,6 @@ The Phishing Domain Detection System is a project aimed at detecting phishing do
 - Python
 - Machine Learning Concepts
 
+## Deadlines
+Phase 1 - 10th February
+
